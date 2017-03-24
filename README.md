@@ -1,0 +1,2 @@
+# ARPongGame
+An augmented reality Pong style game implemented with OpenCV. The goal is to stop the ball from hitting the bottom of the screen by moving the paddle across the screen. The paddle can be controlled by either hand movement or face movement. When using hand movement, be sure to use your right hand while holding it in a fist about 1ft away from the camera. The performance of the game is heavily dependent on the webcam quality and also the lighting in the room.
